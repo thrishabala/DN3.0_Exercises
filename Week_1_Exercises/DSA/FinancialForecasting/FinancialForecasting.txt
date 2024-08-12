@@ -14,5 +14,5 @@ Q.Discuss the time complexity of your recursive algorithm?
 
 Q.Explain how to optimize the recursive solution to avoid excessive computation?
 =>Optimizing the Recursive Solution:
-1.Memoization: To avoid redundant computations in recursive algorithms, memoization can be used. Memoization involves storing the results of expensive function calls and reusing the stored results when the same inputs occur again.
-2.Iterative Approach: Converting the recursive solution to an iterative one can improve performance and avoid the overhead of recursive calls.
+1.this is the change
+
